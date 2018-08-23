@@ -1,0 +1,4 @@
+# Distributed task executor
+
+# Enable / disable Distributed task executor on a per-node basis.
+distributed_task_executor: true
